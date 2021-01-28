@@ -1,0 +1,9 @@
+işler :
+   inşa :
+     ad : Merhaba dünya eylemi 
+    devam ediyor : ubuntu-en son 
+    adımlar :
+      - şunu kullanır : actions / checkout @ v1 
+      - şunu kullanır : ./action-a 
+        ile :
+           MY_NAME : " Mona "
